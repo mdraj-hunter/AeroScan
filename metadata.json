@@ -1,0 +1,6 @@
+{
+  "name": "AeroScan",
+  "description": "AI-powered air pollution level detection using camera analysis and real-time dangerous air quality alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
